@@ -1,0 +1,40 @@
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 4px rgba(0,0,0,.2);
+    letter-spacing: 3px;
+    margin-bottom:5% ;
+    opacity: .7;
+}
+label{
+    font-size: 20px;
+    text-align: center;
+    color: black;
+    color: black;
+    margin-left: 10%;
+    opacity: .8;
+    text-shadow:  2px 2px 4px rgba(0,0,0,.2);
+}
+input{
+    width: 80%;
+    margin: 5% auto;
+    text-align: center;
+    color: black;
+    margin-bottom: 8%;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: black;
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+}
+a{
+    font-size: 30px;
+    text-align: center;
+    color:black;
+    opacity: .7;
+    border: none;s
+    outline: none;
+    background: transparent;
+}
